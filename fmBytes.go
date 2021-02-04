@@ -12,7 +12,7 @@ const (
 	KB = 1000
 )
 
-func format(length int, decimals int) (out string) {
+func formatBytes(length int, decimals int) (out string) {
 	var unit string
 	var i int
 	var reminder int
