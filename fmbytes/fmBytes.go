@@ -1,4 +1,4 @@
-package fembytes
+package fmbytes
 
 import (
 	"fmt"
@@ -11,8 +11,6 @@ const (
 	MB = 1000000
 	KB = 1000
 )
-
-func main() {}
 
 func format(length int, decimals int) (out string) {
 	var unit string

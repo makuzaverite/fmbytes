@@ -1,4 +1,4 @@
-package fembytes
+package fmbytes
 
 import "testing"
 
