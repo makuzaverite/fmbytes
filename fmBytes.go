@@ -5,6 +5,7 @@ import (
 	"strconv"
 )
 
+//bytes length
 const (
 	TB = 1000000000000
 	GB = 1000000000
