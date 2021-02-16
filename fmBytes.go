@@ -12,7 +12,8 @@ const (
 	KB = 1000
 )
 
-func formatBytes(length int, decimals int) (out string) {
+//FormatBytes Formats a given string of bytes into formatted bytes
+func FormatBytes(length int, decimals int) (out string) {
 	var unit string
 	var i int
 	var reminder int
