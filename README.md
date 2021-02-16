@@ -1,6 +1,8 @@
 # fmbytes
 Go lang bytes Formatter library
 
+![CI](https://github.com/makuzaverite/fmbytes/workflows/CI/badge.svg)
+
 
 
 ## Mentainers
